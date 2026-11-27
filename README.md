@@ -1,5 +1,5 @@
 # supabase-vercel-secretless-daignostics
-edit 1.
+edit 2.
 ## Set up
 
 Use a Vercel project that has the Supabase Marketplace integration. Then do these steps:
